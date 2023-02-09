@@ -12,7 +12,7 @@ Slurm is an open source, fault-tolerant, and highly scalable cluster management 
 ### E. To be continue ...
 
 ## External links
-[SLURM](https://slurm.schedmd.com/overview.html)
+[SLURM官网](https://slurm.schedmd.com/overview.html)
 
 [国家超级计算深圳中心，深圳云计算中心：作业调度系统概况](https://nsccsz.hpccube.com/doc/1.0.6/11260/general-handbook/scheduler/intro.html)
 

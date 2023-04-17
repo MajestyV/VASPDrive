@@ -16,7 +16,7 @@ warning: in the working copy of 'XXX/XXX/XXX/XXX.XXX', LF will be replaced by CR
 此时可以通过一下命令更改git的配置：
 
 ```
-$ git config --global core.autocrlf true  # 提交时转换为LF，检出时转换为CRLF
+$ git config --global core.autocrlf true   # 提交时转换为LF，检出时转换为CRLF
 $ git config --global core.autocrlf input  # 提交时转换为LF，检出时不转换
 $ git config --global core.autocrlf false  # 提交检出均不转换
 ```

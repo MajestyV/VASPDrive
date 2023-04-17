@@ -27,4 +27,4 @@ done
 
 # zip [选项] 指定压缩包生成目录/压缩包名 源文件或源目录列表
 zip -q -r ${saving_dir}/${data_label}.zip ${saving_dir}/${data_label}  # 采用zip压缩收集好的数据文件夹方便下载和在windows上解压
-# tar -zcvf ${data_label}.tar.gz ${saving_dir}/${data_label}  # 采用tar压缩收集好的数据文件夹方便下载，同时压缩效果较好，但是不方便在windows系统上解压数据
+# tar -zcvf ${saving_dir}/${data_label}.tar.gz ${saving_dir}/${data_label}  # 采用tar压缩收集好的数据文件夹方便下载，同时压缩效果较好，但是不方便在windows系统上解压数据
